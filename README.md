@@ -9,6 +9,8 @@
     </a>
     <a href="mailto:abdarhmanmasoud99@gmail.com?subject=Email From GitHub Account">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a><a href="https://twitter.com/abood_masoud1">
+    <img src="https://img.shields.io/badge/Twitter-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
     <a href="https://www.codewars.com/users/abodmasoud">
     <img src="https://img.shields.io/badge/-codewars-3A3A3A?style=for-the-badge&logo=codewars&logoColor=white" />
