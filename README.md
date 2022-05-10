@@ -9,14 +9,15 @@
     </a>
     <a href="mailto:abdarhmanmasoud99@gmail.com?subject=Email From GitHub Account">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a><a href="https://twitter.com/abood_masoud1">
-    <img src="https://img.shields.io/badge/Twitter-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
     <a href="https://www.codewars.com/users/abodmasoud">
     <img src="https://img.shields.io/badge/-codewars-3A3A3A?style=for-the-badge&logo=codewars&logoColor=white" />
     </a>
     <a href="https://www.freecodecamp.org/abodmasoud">
     <img src="https://img.shields.io/badge/-freecodecamp-393939?style=for-the-badge&logo=freecodecamp&logoColor=white" />
+    </a>
+    <a href="https://twitter.com/abood_masoud1/">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
     </a>
     <a href="https://www.instagram.com/abod.masoud1/">
     <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" />
