@@ -46,6 +46,7 @@
 <img src="https://img.shields.io/badge/-Jest-914359?style=for-the-badge&logo=jest&logoColor=white" />
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" />
+<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
 ![Git](https://img.shields.io/badge/-Git-3A3A3A?style=for-the-badge&logo=git&logoColor=white)
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 ![api's](https://img.shields.io/badge/-apis-3A3A3A?style=for-the-badge&logo=connect&logoColor=white)
