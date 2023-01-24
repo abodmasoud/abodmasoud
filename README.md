@@ -27,7 +27,7 @@
 ## Brief <img width="20" src="https://c.tenor.com/8McIGu0Tf_QAAAAi/fire-joypixels.gif" />
 <!-- - ✨ Aspiring a Full-Stack JavaScript Developer -->
 - 👀 I’m interested in Programming and Coding
-- 🧑‍💻 Laravel Developer
+- 💻 Laravel Developer
 - 👨‍🎓 Software Development student at [Islamic Universty of Gaza](https://www.iugaza.edu.ps/)
 <!-- - 🔭 I'm currently learning the REACT and NODE JS -->
 <!-- - 🥳️ [Coding Foundations Course](https://gazaskygeeks.com/coders-fundamentals-course/) graduate at [GSG](https://gazaskygeeks.com/) -->
