@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Abdulrahman M Masoud, a Web Developer <img width="35" src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" /></h1>
 <p align="center">
-    <img src="https://www.codewars.com/users/abodmasoud/badges/large" /><br><br><br>
+    <img src="https://www.codewars.com/users/abodmasoud/badges/large" /><br><br>
     <a href="https://www.linkedin.com/in/abdulrahman-masoud/">
     <img src="https://img.shields.io/badge/-linkedin-%230966C2?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/-codewars-3A3A3A?style=for-the-badge&logo=codewars&logoColor=white" />
     </a>
     <a href="https://leetcode.com/abodmasoud1/">
-    <img src="https://img.shields.io/badge/-leetcode-3A3A3A?style=for-the-badge&logo=codewars&logoColor=white" />
+    <img src="https://img.shields.io/badge/-leetcode-3A3A3A?style=for-the-badge&logo=leetcode&logoColor=white" />
     </a>
     <a href="https://www.freecodecamp.org/abodmasoud">
     <img src="https://img.shields.io/badge/-freecodecamp-393939?style=for-the-badge&logo=freecodecamp&logoColor=white" />
