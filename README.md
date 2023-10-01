@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Abdulrahman M Masoud, a Web Developer <img width="35" src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" /></h1>
 <p align="center">
     <img src="https://www.codewars.com/users/abodmasoud/badges/large" /><br><br><br>
-    <img src="https://leetcode.com/users/abodmasoud1/badges/large" /><br><br><br>
+    <img src="https://leetcode.com/abodmasoud1/" /><br><br><br>
     <a href="https://www.linkedin.com/in/abdulrahman-masoud/">
     <img src="https://img.shields.io/badge/-linkedin-%230966C2?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
