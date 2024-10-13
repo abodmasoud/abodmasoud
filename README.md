@@ -31,7 +31,7 @@
 <!-- - ✨ Aspiring a Full-Stack JavaScript Developer -->
 - 💻 REACT & Laravel Developer
 - 👀 I’m interested in Programming and Coding
-- 👨‍🎓 Software Development student at [Islamic Universty of Gaza](https://www.iugaza.edu.ps/)
+- 👨‍🎓 software development Bachelor's at [Islamic Universty of Gaza](https://www.iugaza.edu.ps/)
 - 📩 Reach Me on Social Media By Links Below
 <!-- - 🔭 I'm currently learning the REACT and NODE JS -->
 <!-- - 🥳️ [Coding Foundations Course](https://gazaskygeeks.com/coders-fundamentals-course/) graduate at [GSG](https://gazaskygeeks.com/) -->
